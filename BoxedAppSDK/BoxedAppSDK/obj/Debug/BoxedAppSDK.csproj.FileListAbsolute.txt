@@ -1,0 +1,4 @@
+C:\Vlance\Library\BoxedAppSDK\BoxedAppSDK\bin\Debug\BoxedAppSDK.Develop.Managed.dll
+C:\Vlance\Library\BoxedAppSDK\BoxedAppSDK\bin\Debug\BoxedAppSDK.Develop.Managed.pdb
+C:\Vlance\Library\BoxedAppSDK\BoxedAppSDK\obj\Debug\BoxedAppSDK.Develop.Managed.dll
+C:\Vlance\Library\BoxedAppSDK\BoxedAppSDK\obj\Debug\BoxedAppSDK.Develop.Managed.pdb
